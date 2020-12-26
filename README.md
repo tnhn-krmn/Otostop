@@ -1,12 +1,13 @@
-# The purpose of the system
+# Otostop
+
+## The purpose of the system
 - With the hitchhiking system, people will be able to go from a to b for free.
 
 ## Web 
-- Html5
-- Css3 
-- Boostrap 4 
-- JavaScript 
-- Php
+- Nuxt.Js
+- Buefy (Bulma)
+- Node.js
+- Firebase
 
 ## Mobil
 - React Native
@@ -18,3 +19,22 @@
 - People who chat will be anonymous.
 - There will be a badge system
 
+
+## Build Setup
+
+```bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
