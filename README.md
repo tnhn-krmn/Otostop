@@ -14,6 +14,7 @@ Otostop sistemi ile insanlar ücretsiz bir şekilde a şehrinden b şehrine ücr
 ## Özellikler : 
 - There will be a reference and scoring system
 - Open a travel posting and search for travel
-- Chat olacak, tabi bu chat ise bulunduğu lokasyona yakın olan insanlar ile görüşebilecek.
-- Chat bulunan insanlar anonim olacak.
-- Rozet sistemi olacak
+- Chat and meet people close to the place in a chat environment.
+- People who chat will be anonymous.
+- There will be a badge system
+
