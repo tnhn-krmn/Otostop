@@ -6,7 +6,7 @@
 - Css3 
 - Boostrap 4 
 - JavaScript 
-- Node.js
+- Php
 
 ## Mobil
 - React Native
