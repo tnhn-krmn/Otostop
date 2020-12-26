@@ -1,9 +1,10 @@
 {
-  "name": "Otostop",
+  "name": "otostop",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "prod":"nuxt build && nuxt start",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
