@@ -1,5 +1,5 @@
 # Sistemin amacı
-Otostop sistemi ile insanlar ücretsiz bir şekilde a şehrinden b şehrine ücretsiz gidebilecek.
+- With the hitchhiking system, people will be able to go from a to b for free.
 
 ## Web 
 - Html5,
