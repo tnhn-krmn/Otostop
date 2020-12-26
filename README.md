@@ -17,4 +17,3 @@
 - Chat and meet people close to the place in a chat environment.
 - People who chat will be anonymous.
 - There will be a badge system
-
