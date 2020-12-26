@@ -9,7 +9,7 @@ Otostop sistemi ile insanlar ücretsiz bir şekilde a şehrinden b şehrine ücr
 - Php
 
 ## Mobil
-React Native
+- React Native
 
 ## Özellikler : 
 - Referans ve puanlama sistemi olacak
