@@ -12,8 +12,8 @@ Otostop sistemi ile insanlar ücretsiz bir şekilde a şehrinden b şehrine ücr
 - React Native
 
 ## Özellikler : 
-- Referans ve puanlama sistemi olacak
-- Yolculuk ilanı arama ve yolculuk ilanı açma
+- There will be a reference and scoring system
+- Open a travel posting and search for travel
 - Chat olacak, tabi bu chat ise bulunduğu lokasyona yakın olan insanlar ile görüşebilecek.
 - Chat bulunan insanlar anonim olacak.
 - Rozet sistemi olacak
